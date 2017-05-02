@@ -1,0 +1,86 @@
+1 500 West 185th Street
+2 550 West 185th Street
+3 575 West 185th Street
+4 600 West 185th Street
+5 610 West 185th Street
+6 620 West 185th Street
+7 630 West 185th Street
+8 635 West 185th Street
+9 640 West 185th Street
+10 641 West 185th Street
+12 643 West 185th Street
+13 645 West 185th Street
+14 646 West 185th Street
+15 647 West 185th Street
+16 648 West 185th Street
+17 400 Audubon  Avenue
+18 399 Audubon  Avenue
+19 398 Audubon  Avenue
+20 397 Audubon  Avenue
+21 396 Audubon  Avenue
+22 395 Audubon  Avenue
+23 394 Audubon  Avenue
+24 393 Audubon  Avenue
+25 392 Audubon  Avenue
+26 391 Audubon  Avenue
+27 390 Audubon  Avenue
+28 389 Audubon  Avenue
+29 387 Audubon  Avenue
+30 386 Audubon  Avenue
+31 385 Audubon  Avenue
+32 384 Audubon  Avenue
+33 383 Audubon  Avenue
+34 382 Audubon  Avenue
+35 381 Audubon  Avenue
+36 380 Audubon  Avenue
+37 549 West 184th Street
+38 548 West 184th Street
+39 547 West 184th Street
+40 546 West 184th Street
+41 545 West 184th Street
+42 544 West 184th Street
+43 543 West 184th Street
+44 542 West 184th Street
+45 541 West 184th Street
+46 540 West 184th Street
+47 2495 Amsterdam Avenue
+48 2500 Amsterdam Avenue
+49 2510 Amsterdam Avenue
+50 2515 Amsterdam Avenue
+51 2515 Amsterdam Avenue
+52 2520 Amsterdam Avenue
+53 2525 Amsterdam Avenue
+54 2530 Amsterdam Avenue
+55 2535 Amsterdam Avenue
+56 2540 Amsterdam Avenue
+57 2545 Amsterdam Avenue
+58 2550 Amsterdam Avenue
+59 2575 Amsterdam Avenue
+60 2585 Amsterdam Avenue
+61 100 North Amsterdam Avenue
+62 105 North Amsterdam Avenue
+63 110 North Amsterdam Avenue
+60,61
+49,50,38,39
+58,59,2,3
+43,44,26,27
+10,12,19,20
+hospital 52
+EMS 17
+EMS 35
+648 West 185th Street 30
+Begin911CallGroup
+105 North Amsterdam Avenue 5
+2495 Amsterdam Avenue 50
+397 Audubon  Avenue 1
+391 Audubon  Avenue 7
+540 West 184th Street 3
+545 West 184th Street 4
+105 North Amsterdam Avenue 20
+500 West 185th Street 5
+End911CallGroup
+brokenRoad 2530 2545 Amsterdam Avenue
+brokenRoad 385 387 Audubon  Avenue
+630 West 185th Street 35
+386 Audubon  Avenue 40
+repair team
